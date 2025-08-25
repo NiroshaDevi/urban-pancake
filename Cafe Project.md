@@ -96,6 +96,7 @@ The **Dirty Cafe Sales** Power BI dashboard transforms complex, inconsistent dat
 ---
 
 > **Ready to brew up business insights from raw data!**
+
 [dirty_cafe_sales_raw_data.xlsx](https://github.com/user-attachments/files/21960508/dirty_cafe_sales_raw_data.xlsx)
 [Dirty_cafe_sales_Answer.xlsx](https://github.com/user-attachments/files/21960504/Dirty_cafe_sales_Answer.xlsx)
 [Cafe Sales(cleaned).xlsx](https://github.com/user-attachments/files/21960487/Cafe.Sales.cleaned.xlsx)
